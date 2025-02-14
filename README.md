@@ -5,4 +5,4 @@ Die hinterlegten Ressourcen in diesem Repository stellen unseren Stand bis zum 2
 **Wichtig hervorzuheben ist, dass der Code im Ordner für das Alarm Skript nicht in einem funktionsfähigen Zustand ist und dient lediglich der Dokumentation unseres Fortschritts und der Orientierung.**
 
 - Sound.py befindet sich im funktionsfähigen Zustand (Für korrekte Ausführung siehe [Guide](http://wi-se.hwr-berlin.de/confluence/display/SEW24/Sound+Guide+-+How+to+play+Sounds+over+USB-Speaker))
-- 
+- alarm_sound_annoying.wav wird in der Sound.py ausgeführt --> **Stellen Sie sicher, dass diese im gleichen Verzeichnis liegen**
